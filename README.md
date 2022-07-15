@@ -6,7 +6,7 @@
 
 We must go from visiting a simple website to having root access over the entire web server.
 
-We'll download the VM from [here](https://www.vulnhub.com/entry/sickos-11,132/) and set it up with VMware Workstation 16.
+We'll download the VM from [here](https://www.vulnhub.com/entry/bbs-cute-102,567/) and set it up with VMware Workstation 16.
 
 Once the machine is up, we get to work.
 
